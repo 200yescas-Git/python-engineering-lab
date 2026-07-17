@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner/database.jpg" width="900"/>
+  <img src="assets/banner/python-logo.jpg" width="900"/>
 </p>
 
 <h1 align="center">DATABASE</h1>
