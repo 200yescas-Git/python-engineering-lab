@@ -180,3 +180,30 @@ Transformación, validación y manipulación de datos utilizados por aplicacione
 
 ---
 
+## Repository Architecture
+
+La estructura del repositorio está organizada por dominios tecnológicos.
+
+Cada dominio mantiene su propia documentación, laboratorios, proyectos y rutas de aprendizaje.
+
+### Example
+
+```text
+python-engineering/
+
+├── python-fundamentals/
+├── automation/
+├── scripting/
+├── apis/
+├── databases/
+├── file-processing/
+├── networking/
+├── system-administration/
+├── testing/
+├── cybersecurity/
+├── data-processing/
+├── performance/
+└── projects/
+```
+
+---
