@@ -208,4 +208,55 @@ python-engineering/
 
 ---
 
+## Labs
+
+Los laboratorios documentarán escenarios prácticos relacionados con automatización, integración, desarrollo y administración mediante Python.
+
+Cada laboratorio incluirá:
+
+- Objetivo
+- Requisitos
+- Procedimiento
+- Evidencia
+- Resultados
+- Lecciones aprendidas
+
+---
+
+## Projects
+
+Los proyectos estarán orientados al desarrollo de soluciones reales utilizando Python.
+
+Ejemplos:
+
+- Automatización de infraestructura.
+- Herramientas administrativas.
+- Integración con APIs.
+- Automatización de bases de datos.
+- Automatización de redes.
+- Automatización de procesos empresariales.
+
+---
+
+## Learning Paths
+
+Cada dominio tecnológico mantendrá sus propias rutas de aprendizaje y certificaciones.
+
+### Example
+
+```text
+python-fundamentals/
+
+└── learning-paths/
+
+    Cisco Python Essentials
+
+    PCEP
+
+    PCAP
+
+    Cursos especializados
+```
+
+---
 
